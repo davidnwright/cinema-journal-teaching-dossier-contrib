@@ -9,11 +9,25 @@ This proposed contribution to Cinema Journal Teaching Dossier will discuss what 
 
 **There are a number of ongoing discussions in media studies and parallel fields, particularly the Digital Humanities, that foreground the role of materiality in a media-dominated age. This contribution adds to that conversation by suggesting that the media studies classroom deploy methodologies that are more concerned with materiality. At the same time, there is a provocation herein to think about media studies and the fields it so often draws from--English, History, Sociology, Psychology, Geography--as spaces for examining objects rather than concepts.**
 
+Conclusion or Beginning - I. "Media are civilizational ordering devices" (Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of Elemental Media. Chicago: U of Chicago P, 2015.  Kindle Loc 105 of 9689)
 
+"Media are civilizational ordering devices" Kindle Loc 105 of 9689
 
+"media theory is about environments and infrastructures as much as about messages and content is well rooted in a variety of intellectual traditions. /NPara/ Digital devices invite us to think of media as environmental, as part of the habitat, and not just as semiotic inputs into people's heads. This book starts from the idea that the advent of digital media returns us to fundamental and perennial problems of communication and civilization. /NPage/ So-called new media do not take us into uncharted waters: they revive the most basic problems of conjoined living in complex societies and cast the oldest troubles into relief (kindle Loc 93-105 of 9689)
 
+"we have to rethink what we mean by meaning. If we mean mental content intentionally designed to say somethign to someone" or "if we mean repositories of readable data and processes that sustain and enable existence" (Loc 93 of 9689) 
 
+"Media [...] are about humans, and more specifically about vehicles that mark human meaning and intention" (Kindle Loc 80 of 9689). Thinking about the medium of the 3D printer as a "that marks human meaning and intention" allows us to see how the object it produces can have within it both meaning and intention--the intention may not necessarily be visible and it may also me offensive... if the intention is locked up in socio-cultural assumptions. If we *intend* to be racist we do not necessarily intend to be offensive. It's a wierd situation in which the object holds its intentionality through its need to be reproduced. Who makes the decision to reproduce the object and why? These are things that the fabricated object brings forward, particularly on a personal level of the individual hobbiest. 
 
+[WHO ARE YOU TALKING ABOUT? INDIVIDUALS OR INDUSTRIAL PRODUCERS? BEST TO QUALIFY THAT]
+
+3D printing like any of other medium can be understood generally as a way of communicating meaning. And in this particular instance, a way of communicating a textual or preserved meaning... a way of capturing meaning and holding it in the supposedly unbiased object or objectivity of the inert fabrication.
+
+In so doing we destroy certain elements of communication. We destroy authenticity. We also revive the associations that the object might represent--some of those associations may be rendered inert by other forms of representation such as photographs, stories, or oral traditions all of which lack the tactility and interjection an object in space carries with it. 
+
+"Media are not only devices of information; they are agencies of order" (Kindle Loc 47 of 9689) (John Durham Peters-Clouds)
+
+Peters, John Durham. *The Marvelous Clouds: Toward a Philosophy of Elemental Media*. Chicago: U of Chicago P, 2015.
 
 Media studies and Digital Humanities (DH) work share a range of intersecting concerns. Recent discipline-wide discussions in Flow and Media Commons, as well as at the SCMS and MLA conferences, have emphasized the crossovers between the two. For this issue of the Cinema Journal Teaching Dossier, we seek contributions that bring this discussion into the classroom. How do the concerns of DH work, with its emphases on innovative scholarly architectures, multimedia components, and cross-disciplinary hybridity, speak to evolving trends in media studies pedagogy? What kinds of pedagogical practices engage and capitalize on DH’s emphases on praxis and design? How can media studies practice model and promote a productive collaboration around computing in the humanities?
 
