@@ -29,6 +29,34 @@ In so doing we destroy certain elements of communication. We destroy authenticit
 
 Peters, John Durham. *The Marvelous Clouds: Toward a Philosophy of Elemental Media*. Chicago: U of Chicago P, 2015.
 
+
+
+We write to inform you that your submission to the DH and Media Studies Crossovers Cinema Journal Teaching Dossier has been accepted!
+
+We received many fantastic submissions and we feel strongly that your contribution will be a great asset to the dossier.  We look forward to reading the fleshed out version of your abstract.
+
+We thought it would be useful for you to have an overview of the scope of the dossier, so below you will find a list of contributors and their topics.
+
+Kevin L. Ferguson: Teaching Subtitles as Historiographic Research
+Joel Burges, Nora Dimmock and Joshua Rompfh: Shot Analysis and Data Visualization
+Grant Wythoff: DH and Media Studies design thinking
+Lauren S. Berliner: productive uses of Wikipedia
+Andrew deWaard: ClipNotes in the Classroom
+David N. Wright: The Prototyping Classroom
+
+We are incredibly excited to have this broad range of engaging topics in this dossier and we're grateful to your work for being a vital part of that collection.
+
+As an editorial aside: we love the way your proposal discusses a physical engagement with media objects. There are, however, some vague claims made in your abstract.  In your completed work, we invite you to explain whether this is something you've done or are doing, and to provide concrete examples in the form of worksheets, handouts, or slideshows so that other educators can benefit from your work. If possible, it would also be great to see links to or images of student work.
+
+Details:
+
+We ask that you submit your essay by September 7, 2015, and that you email your completed post to Leah Shafer at shafer@hws.edu<mailto:shafer@hws.edu>. Your submission should be 1300-1600 words, written in scholarly prose suitable for academic journal publication.  Any citations you include should be formatted in Chicago style.  Inclusion of links, images, and/or video (which we would love!) is encouraged as a productive use of the online publishing format.  We encourage you to check out previous issues<http://www.teachingmedia.org/cinema-journal-teaching-dossier/> to get a sense of the tone and format, but you are, of course, free to write your piece as you choose.
+
+Once submitted, your essay will be put through a rigorous editorial process, which may include blind peer-review editorial board oversight. You  may be asked to conduct revisions on your essays, and the editors may decline to include an essay in the Dossier if it is deemed to be substandard or insufficiently revised according to editorial demands.
+We are glad to be working work with you on this edition of the Cinema Journal Teaching Dossier. Thank you for your thoughtful work so far, and good luck as you craft your submission.  If you have any questions, don't hesitate to contact us at shafer@hws.edu<mailto:shafer@hws.edu>.
+
+----
+
 Media studies and Digital Humanities (DH) work share a range of intersecting concerns. Recent discipline-wide discussions in Flow and Media Commons, as well as at the SCMS and MLA conferences, have emphasized the crossovers between the two. For this issue of the Cinema Journal Teaching Dossier, we seek contributions that bring this discussion into the classroom. How do the concerns of DH work, with its emphases on innovative scholarly architectures, multimedia components, and cross-disciplinary hybridity, speak to evolving trends in media studies pedagogy? What kinds of pedagogical practices engage and capitalize on DH’s emphases on praxis and design? How can media studies practice model and promote a productive collaboration around computing in the humanities?
 
 Possible areas of engagement/intervention include:
